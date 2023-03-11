@@ -1,0 +1,6 @@
+[11.03.23 04:34:31] SockConnecting...
+[11.03.23 04:34:34] SockDisconnect
+[11.03.23 04:34:34] Error.TamHandleTCPClientSocket.ClientSocketOpen  Windows socket error: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение (10061), on API 'connect'
+[11.03.23 04:34:34] SockConnecting...
+[11.03.23 04:34:36] SockDisconnect
+[11.03.23 04:34:36] Error.TamHandleTCPClientSocket.ClientSocketOpen  Windows socket error: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение (10061), on API 'connect'
